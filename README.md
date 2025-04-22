@@ -7,9 +7,8 @@ This project visualizes and analyzes the SuperStore Sales dataset to uncover mea
 ---
 
 ## 🔧 Tools Used
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Jupyter/Colab Notebook
-- Streamlit (optional for dashboard interactivity)
+- Python (Pandas, Matplotlib)
+- powerbi (optional for dashboard interactivity)
 
 ---
 
